@@ -1,0 +1,28 @@
+git add .
+git commit -m ""  
+git push origin master
+
+
+
+git pull origin master
+git log
+git status
+
+ls -->show me where i'm now
+cd First
+mpicc -o out   main.c
+mpd &
+mpiexec -n 4 ./out
+
+ßá ãÑÉ åÈÏÃ
+
+chmod 777 /shared
+mount -t vboxsf code /shared
+mpd &
+cd /shared
+ls
+
+cd .. ->return me to shared folder.
+
+http://mpitutorial.com/tutorials/
+http://mpitutorial.com/tutorials/mpi-send-and-receive/
