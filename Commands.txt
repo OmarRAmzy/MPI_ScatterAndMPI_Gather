@@ -14,8 +14,8 @@ mpicc -o out   main.c
 mpd &
 mpiexec -n 4 ./out
 
-ßá ãÑÉ åÈÏÃ
-
+Every run
+ 
 chmod 777 /shared
 mount -t vboxsf code /shared
 mpd &
@@ -29,3 +29,15 @@ cd .. ->return me to shared folder.
 git add .
 git commit -m " "
 git push 
+
+**push Project
+
+**push project
+
+1.  cd path " \\ "
+2.  git init 
+3. git add .
+4. git commit -m " message "
+5. git log
+6. git remote add (name) + (URL)
+7. git push -u (name) master
