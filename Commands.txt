@@ -24,5 +24,8 @@ ls
 
 cd .. ->return me to shared folder.
 
-http://mpitutorial.com/tutorials/
-http://mpitutorial.com/tutorials/mpi-send-and-receive/
+** Add new files
+
+git add .
+git commit -m " "
+git push 
